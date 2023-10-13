@@ -1,15 +1,15 @@
 # Oscar Morales | Web Developer 👋
 
-## About me
-I am a web developer, student, and passionate about artificial intelligence, back-end and front-end development. I am constantly looking for new ways to implement technology to improve the quality, productivity, and lives of people.
+## ✨ About me
+I am a web developer 🧑‍💻, student, and passionate about artificial intelligence 🧠, back-end and front-end development. I am constantly looking for new ways to implement technology to improve the quality, productivity, and lives of people ✨.
 
-I am always looking to learn something new and implement artificial intelligence to improve my productivity and my pursuit of continuous learning. I have a high capacity for adapting to my environment and work effectively in teams.
+I am always looking to learn something new and implement artificial intelligence to improve my productivity and my pursuit of continuous learning 📒 . I have a high capacity for adapting to my environment and work effectively in teams 🤝.
 
 In my spare time, I enjoy reading 📖, listening to music 🎶, playing video games 🎮, and exploring new things 🔎.
 
 
 
-## Skills
+## 💡 Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=) ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=) ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)

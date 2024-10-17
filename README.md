@@ -1,4 +1,4 @@
-# Oscar Morales | Web Developer 👋
+# Oscar Morales | Software Developer 👋
 
 ## ✨ About me
 I am a web developer 🧑‍💻, student, and passionate about artificial intelligence 🧠, back-end and front-end development. I am constantly looking for new ways to implement technology to improve the quality, productivity, and lives of people ✨.
